@@ -14,6 +14,16 @@ Epoch 3/3
 ```
 
 ```
+INFO:plaidml:Opening device "llvm_cpu.0"
+Epoch 1/3
+60000/60000 [==============================] - 8s 126us/step - loss: 0.2625 - acc: 0.9230
+Epoch 2/3
+60000/60000 [==============================] - 7s 124us/step - loss: 0.1075 - acc: 0.9667
+Epoch 3/3
+60000/60000 [==============================] - 8s 127us/step - loss: 0.0730 - acc: 0.9773
+```
+
+```
 INFO:plaidml:Opening device "metal_amd_radeon_pro_5300m.0"
 Epoch 1/3
 60000/60000 [==============================] - 7s 119us/step - loss: 0.2596 - acc: 0.9235 
